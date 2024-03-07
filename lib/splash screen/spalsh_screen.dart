@@ -50,10 +50,10 @@ class _SplashScreenState extends State<SplashScreen> {
               "Working for a better tomorrow!",
               textAlign: TextAlign.center,
               style: TextStyle(
-                fontSize: 40,
+                fontSize: 20,
                 fontFamily: "Signatra",
                 color: Colors.black54,
-                letterSpacing: 3,
+                letterSpacing: 2,
               ),
             ),
           )

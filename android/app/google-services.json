@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "366975969911",
+    "project_id": "tabour-sellers",
+    "storage_bucket": "tabour-sellers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366975969911:android:ef06f6ce85a6072b1bb472",
+        "android_client_info": {
+          "package_name": "com.david.tabour_riders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbREfL9nEqanBX3zLlOiR3BzP8657ug1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366975969911:android:a28528153eb206d11bb472",
+        "android_client_info": {
+          "package_name": "com.david.taboursellers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbREfL9nEqanBX3zLlOiR3BzP8657ug1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
